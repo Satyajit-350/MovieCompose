@@ -41,7 +41,7 @@ API KEY = YOUR API KEY
 
 5. Run the app on an Android emulator or a physical device by selecting the target device and clicking on the **Run**
 
-## Sceenshots
+## Screenshots
 <h2 align="center">Light Mode</h2>
 
 | ![](https://github.com/Satyajit-350/MovieCompose/blob/master/screenshots/l1.png) | ![](https://github.com/Satyajit-350/MovieCompose/blob/master/screenshots/l2.png) | ![](https://github.com/Satyajit-350/MovieCompose/blob/master/screenshots/l3.png) |
