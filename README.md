@@ -19,7 +19,7 @@ A simple Movie Application built with Jetpack Compose. This app follows a clean 
  ## Application Install
 You can Install and test the app from below 👇
 
-[![MovieCompose](https://img.shields.io/badge/MovieCompose-APK-silver.svg?style=for-the-badge&logo=android)](https://github.com/Satyajit-350/NewsCompose/releases/tag/1.0.0)
+[![MovieCompose](https://img.shields.io/badge/MovieCompose-APK-silver.svg?style=for-the-badge&logo=android)](https://github.com/Satyajit-350/MovieCompose/releases/tag/1.0.0)
 
 ## Build and Run Instructions
 
