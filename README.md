@@ -15,7 +15,7 @@ A simple Movie Application built with Jetpack Compose. This app follows a clean 
 - [Room Database](https://developer.android.com/training/data-storage/room) - save data in a local database
 - [Paging3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) - load and display pages of data from a larger dataset from local storage or over a network
 - [WorkManager](https://developer.android.com/reference/androidx/work/WorkManager) - schedules work and execute sometime after its Constraints are met
-- 
+  
  ## Application Install
 You can Install and test the app from below 👇
 
