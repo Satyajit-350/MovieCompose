@@ -1,4 +1,4 @@
-# NewsCompose
+# MovieCompose
 A simple Movie Application built with Jetpack Compose. This app follows a clean architecture design, making it robust and maintainable. It seamlessly integrates modern technologies like Paging3 and Room DB to efficiently handle data, while adhering to the MVVM (Model-View-ViewModel) pattern for structured and scalable code.
 
 ## Techs Used 💻
